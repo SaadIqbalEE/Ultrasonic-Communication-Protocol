@@ -1,0 +1,8 @@
+#################
+
+# bi-directional acoutics communication
+
+transceiver_client_V0.1
+transceiver_server_V0.1
+
+Working by using internal microphone and external speaker

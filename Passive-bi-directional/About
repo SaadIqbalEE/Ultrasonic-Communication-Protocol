@@ -1,0 +1,9 @@
+# Passive bi-directional acoutics communication
+
+ptransceiver_client_V0.1
+ptransceiver_server_V0.1
+
+Working by port retasking into microphone and speaker alternatively.
+
+
+Note: Passive sound component should attached to the audio port of PC/laptop.

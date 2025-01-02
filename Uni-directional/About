@@ -1,0 +1,17 @@
+############
+data2wav:	convert message data into .wav file										@48kHz
+
+Transmitter_V0.1:	send message/command in txt file repeatly untill stop			@48kHz
+Transmitter_V1.1:	send message/command written in terminal repeatly untill stop	@48kHz
+Receiver_V0.1:	receive message/command and print on terminal and append to file	@48kHz
+Receiver_V1.1:	P_receive message/command and print on terminal and append to file	@48kHz
+
+# m = 2, BW: 400 Hz, Fc: 19kHz
+# Packet initial alignment
+# CPFSK zero crossing based receiver
+# No passive topology
+# vol -> 100%
+# Sensitivity AGC
+# LOS matter
+
+
